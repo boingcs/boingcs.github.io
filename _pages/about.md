@@ -11,8 +11,6 @@ I am currently a sophomore at ShanghaiTech University, majoring in Computer Scie
 ## Website Content:
 - **Research**: I will regularly update my ongoing research projects, papers, and related technical analyses.
 - **Projects**: Showcase of my hands-on experience from coursework and self-driven projects, ranging from algorithm implementations to full system development.
-- **Learning Resources**: Sharing quality resources for studying Computer Science, including book recommendations, tutorials, and online courses, to help fellow students advance.
-- **Blog**: A place where I document the technical challenges I've encountered, solutions I've implemented, and insights I’ve gained on my journey of learning Computer Science.
 
 
 You can find my CV here: [Zheng Yan](../files/yry.pdf)
