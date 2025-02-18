@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-CS2 king & valorant radiant
+I am currently a sophomore at ShanghaiTech University, majoring in Computer Science.I have achieved a GPA of 3.62/4.0
 
 You can find my CV here: [Zheng Yan](../files/yry.pdf)
 
