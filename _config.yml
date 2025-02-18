@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Renyi Yang"
+title                    : "Zheng Yan"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Renyi Yang"
+  name             : "Zheng Yan"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Student in CS"
   location         : "Shanghai"
   employer         : "ShanghaiTech University"
   uri              : # URL
-  email            : "yangry2023@shanghaitech.edu.cn" 
+  email            : "yanzheng2023@shanghaitech.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "AristurtleHu"
+  github           : "boingcs"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
