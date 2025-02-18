@@ -13,4 +13,4 @@ You can find my CV here: [Renyi Yang](../files/yry.pdf)
 
 B.ENG. CANDIDATE, [COMPUTER SCIENCE](https://sist.shanghaitech.edu.cn/sist_en/) | [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/)
 
-[Email](yangry2023@shanghaitech.edu.cn) / [Github](https://github.com/AristurtleHu)
+[Email](mailto:yangry2023@shanghaitech.edu.cn) / [Github](https://github.com/AristurtleHu)
