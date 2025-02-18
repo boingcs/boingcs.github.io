@@ -13,7 +13,7 @@ I am currently a sophomore at ShanghaiTech University, majoring in Computer Scie
 - **Projects**: Showcase of my hands-on experience from coursework and self-driven projects, ranging from algorithm implementations to full system development.
 
 
-You can find my CV here: [Zheng Yan](../files/yry.pdf)
+You can find my CV here: [Zheng Yan](../files/yz.pdf)
 
 B.ENG. CANDIDATE, [COMPUTER SCIENCE](https://sist.shanghaitech.edu.cn/sist_en/) | [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/)
 
