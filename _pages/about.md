@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Renyi Yang"
+title: "Zheng Yan"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
+CS2 king & valorant radiant
 
 You can find my CV here: [Zheng Yan](../files/yry.pdf)
 
